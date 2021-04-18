@@ -29,4 +29,4 @@ Static E-commerce Application using JavaFX and SceneBuilder to list, select and 
     - Main.java: The start point of the application
     
 ### Application Architecture 
-![alt text](Shoppy.png)
+![alt text](resources/images/Shoppy.png)
